@@ -39,4 +39,10 @@ Mengonfigurasi Nama Pengguna:
 ## Installation (virtual environment)
  - python -m venv  .venv
  - .\.venv\Scripts\python.exe for activate environment
+# bukti pengerjaan
+![Screenshot (186)](https://github.com/Maullynn/lab2py/assets/144296695/3bb9b756-abb8-43c1-b3b5-08b7c67bfc5e) 
+![Uploading Screenshot (187).png…]()
+![Screenshot (188)](https://github.com/Maullynn/lab2py/assets/144296695/37b39424-e7bb-46b1-b733-a7c930f36dc8)![Uploading Screenshot (182).png…]()
+
+![Screenshot (184)](https://github.com/Maullynn/lab2py/assets/144296695/954426b3-20e8-4571-b3fc-9b5b60bf84dc)
 
