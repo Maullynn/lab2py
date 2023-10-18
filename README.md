@@ -1,6 +1,6 @@
-# Kalkulator Sederhana
+# LAB2PY
 
-kalkulator adalah alat untuk menghitung dari perhitungan sederhana seperti penjumlahan, pengurangan, perkalian dan pembagian, juga bisa untuk alat bantu menghitung.
+Belajar membuat environmet virtual(venv) di visual studio code 
 
 ## Fitur
 - Input bilangan 1
